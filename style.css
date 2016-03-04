@@ -1,0 +1,12 @@
+h1 {
+  text-align: center
+}
+
+img {
+  display: block;
+  margin: auto
+}
+
+body {
+  background-color: rgb(135, 255, 158);
+}
